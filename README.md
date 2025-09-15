@@ -22,22 +22,10 @@ File handling
 
 
 
-{🚀 Features
+📂 File Output
 
-📌 Hardcoded stock price dictionary (e.g., {"AAPL": 180, "TSLA": 250})
+If you choose to save results, the program will generate a file (portfolio.txt or .csv) with your stock details and total investment.
 
-📌 User input for stock symbols and quantities
+🧑‍💻 Author
 
-📌 Calculates total investment value
-
-📌 Option to save results in .txt or .csv format
-
-🛠️ Concepts Used
-
-Dictionaries
-
-User input/output
-
-Basic arithmetic operations
-
-File handling}
+Developed by Waleed saifullah🚀
