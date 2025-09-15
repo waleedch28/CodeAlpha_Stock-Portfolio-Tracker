@@ -1,0 +1,5 @@
+Stock Portfolio Tracker
+----------------------
+MSFT: 100 shares × $320 = $32000
+
+Total Investment Value = $32000
